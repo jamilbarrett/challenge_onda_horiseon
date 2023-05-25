@@ -1,1 +1,5 @@
 # challenge_onda_horiseon
+
+In this challenge, we dived into HTML scemantic tags. These tags have no affect on the HTML structure, but rather they serve a=an intangible value. They help the web page get found via seo. So its important to use the correct tag for each portion. i.e. <main ></main> for the main portion of the web page.
+
+We also learned how to link html to css. Css is how one makes various graphical changes to a web page. 
