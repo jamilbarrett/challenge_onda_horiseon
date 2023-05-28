@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed div tag to nav tag to better correspond with html */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+ /* consolidated classes that used the same specss */
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
@@ -138,7 +138,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* changed footer from h2 to hr to match html */
 .footer h4 {
     font-size: 20px;
 }
