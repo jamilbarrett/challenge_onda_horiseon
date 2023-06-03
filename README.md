@@ -5,3 +5,6 @@ In this challenge, we dived into HTML scemantic tags. These tags have no affect 
 We also learned how to link html to css. Css is how one makes various graphical changes to a web page. 
 When you make changes from a div tag to a section tag i.e. you must make the corresponding change in css. 
 ![image](https://github.com/jamilbarrett/challenge_onda_horiseon/assets/131495987/266659c4-eebd-4fe0-aefe-fa18bd15ef36)
+https://github.com/jamilbarrett/challenge_onda_horiseon
+
+https://jamilbarrett.github.io/challenge_onda_horiseon/
