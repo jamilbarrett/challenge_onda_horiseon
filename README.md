@@ -4,3 +4,4 @@ In this challenge, we dived into HTML scemantic tags. These tags have no affect 
 
 We also learned how to link html to css. Css is how one makes various graphical changes to a web page. 
 When you make changes from a div tag to a section tag i.e. you must make the corresponding change in css. 
+![Alt text](../../Desktop/Screenshot%202023-06-03%20at%207.10.02%20PM.png)
